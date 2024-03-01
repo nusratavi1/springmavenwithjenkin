@@ -22,5 +22,5 @@ class SimpleControllerTest {
 	void testSayHello() {
 		//fail("Not yet implemented");
 		String result = simpleController.sayHello();
-		assertEquals("Welcome to spring rest api", result);
+		assertEquals("Welcome to spring rest", result);
 	}}
